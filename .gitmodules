@@ -1,0 +1,3 @@
+[submodule "repo-curso/repo-ejemplo"]
+	path = repo-curso/repo-ejemplo
+	url = https://github.com/oslugr/repo-ejemplo.git
